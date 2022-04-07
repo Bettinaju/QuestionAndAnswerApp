@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+
+.app-header {
+  font-size: 3.5em;
+  width: 100vw;
+  text-align: center;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  font-family: "Pacifico", cursive;
+  background-color: yellow;
+}
+
+.question-input {
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+}
+
+.input-field {
+  margin: 10px;
+}
+
+.input-btn {
+  margin: 10px;
+}
+
+.question-list {
+  list-style-type: none;
+}
+.question-wrapper {
+  margin-top: 5px;
+}
+
+.question-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 90vw;
+}
+
+.timestamp {
+  color: darkgoldenrod;
+  font-size: 0.8em;
+}
+
+.show-more-btn {
+  border-radius: 100%;
+  width: 25px;
+  height: 25px;
+  font-weight: bold;
+}
