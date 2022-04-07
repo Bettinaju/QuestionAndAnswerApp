@@ -29,6 +29,7 @@
 }
 .question-wrapper {
   margin-top: 5px;
+  width: 100vw;
 }
 
 .question-item {
@@ -48,4 +49,5 @@
   width: 25px;
   height: 25px;
   font-weight: bold;
+  margin-right: 30px;
 }
